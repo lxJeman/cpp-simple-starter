@@ -1,0 +1,3 @@
+/media/alexjeman/1153c337-15f0-40dd-ac53-88baa722524d/Projects/Școala/Matematică/delta/build/CMakeFiles/exe.dir
+/media/alexjeman/1153c337-15f0-40dd-ac53-88baa722524d/Projects/Școala/Matematică/delta/build/CMakeFiles/edit_cache.dir
+/media/alexjeman/1153c337-15f0-40dd-ac53-88baa722524d/Projects/Școala/Matematică/delta/build/CMakeFiles/rebuild_cache.dir
